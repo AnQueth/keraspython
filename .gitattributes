@@ -24,3 +24,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.user filter=lfs diff=lfs merge=lfs -text
 /DocImageClassification/WinFormsApp1/mymodel2 filter=lfs diff=lfs merge=lfs -text
+/Python/DocumentClassification/results filter=lfs diff=lfs merge=lfs -text
